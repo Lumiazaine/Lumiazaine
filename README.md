@@ -4,6 +4,8 @@
 
 ### I'm David 🌙
 
+Im a 23 years old geek developer trying to do incredible things (at least i try)
+
 ### 🛠 Tech Stack
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
